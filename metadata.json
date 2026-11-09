@@ -1,0 +1,6 @@
+{
+  "name": "NetSpeed Pro - Real-Time Internet Speed Test",
+  "description": "Measure your real download speed, upload speed, latency (ping), and jitter with accurate byte-level network benchmarking and live speedometer visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
